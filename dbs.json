@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "visit vinuja.in"
+    },
+    {
+      "id": "2",
+      "checked": true,
+      "item": "Blockchain"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "AI"
+    },
+    {
+      "id": "311",
+      "checked": false,
+      "item": "python"
+    },
+    {
+      "id": "31111",
+      "checked": false,
+      "item": "h,m/;"
+    },
+    {
+      "id": "311111",
+      "checked": false,
+      "item": "oiiiiii"
+    },
+    {
+      "id": "3111111",
+      "checked": false,
+      "item": "jjjjjjjjjj"
+    }
+  ]
+}
